@@ -1,0 +1,15 @@
+C:\Users\samsu\OneDrive\Рабочий стол\Itog_Project\Finall_project\bin\Debug\net6.0\Finall_project.exe
+C:\Users\samsu\OneDrive\Рабочий стол\Itog_Project\Finall_project\bin\Debug\net6.0\Finall_project.deps.json
+C:\Users\samsu\OneDrive\Рабочий стол\Itog_Project\Finall_project\bin\Debug\net6.0\Finall_project.runtimeconfig.json
+C:\Users\samsu\OneDrive\Рабочий стол\Itog_Project\Finall_project\bin\Debug\net6.0\Finall_project.dll
+C:\Users\samsu\OneDrive\Рабочий стол\Itog_Project\Finall_project\bin\Debug\net6.0\Finall_project.pdb
+C:\Users\samsu\OneDrive\Рабочий стол\Itog_Project\Finall_project\obj\Debug\net6.0\Finall_project.csproj.AssemblyReference.cache
+C:\Users\samsu\OneDrive\Рабочий стол\Itog_Project\Finall_project\obj\Debug\net6.0\Finall_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samsu\OneDrive\Рабочий стол\Itog_Project\Finall_project\obj\Debug\net6.0\Finall_project.AssemblyInfoInputs.cache
+C:\Users\samsu\OneDrive\Рабочий стол\Itog_Project\Finall_project\obj\Debug\net6.0\Finall_project.AssemblyInfo.cs
+C:\Users\samsu\OneDrive\Рабочий стол\Itog_Project\Finall_project\obj\Debug\net6.0\Finall_project.csproj.CoreCompileInputs.cache
+C:\Users\samsu\OneDrive\Рабочий стол\Itog_Project\Finall_project\obj\Debug\net6.0\Finall_project.dll
+C:\Users\samsu\OneDrive\Рабочий стол\Itog_Project\Finall_project\obj\Debug\net6.0\refint\Finall_project.dll
+C:\Users\samsu\OneDrive\Рабочий стол\Itog_Project\Finall_project\obj\Debug\net6.0\Finall_project.pdb
+C:\Users\samsu\OneDrive\Рабочий стол\Itog_Project\Finall_project\obj\Debug\net6.0\Finall_project.genruntimeconfig.cache
+C:\Users\samsu\OneDrive\Рабочий стол\Itog_Project\Finall_project\obj\Debug\net6.0\ref\Finall_project.dll
